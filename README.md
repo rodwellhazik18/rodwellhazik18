@@ -1,4 +1,4 @@
-### hazikrodwell
+### - **Discord**: [hazikrodwell](https://discord.com/users/hazikrodwell)
 
 <!--
 **rodwellhazik18/rodwellhazik18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
